@@ -2,7 +2,6 @@
 layout: post
 title:  "Review: Spelunky 2"
 date:   2022-02-26 12:00:00 -0400
-categories: review
 ---
 I think it might be a reasonable assumption that folks who follow the indie game market on PC have heard about Derek Yu. He ran a popular gamedev blog/messageboard called [TIGsource](https://www.tigsource.com), and did the artwork and level design for the breakout indie hit [Aquaria](https://bit-blot.com/aquaria/). After Aquaria, Yu developed a platform game he called &quot;Spelunky,&quot; which blended traditional Mario-style platforming with some rougelike elements, such as procedurally generated levels and no extra lives or continues (permadeath). Amusingly, it had a bit of an Indiana Jones theme to it — the main character wears a fedora, and uses a whip as his primary weapon, while searching for ancient gold and artifacts. To make a long story short, the freeware version was popular enough that Yu was able to get a contract with Microsoft to develop an enhanced version of the game for Xbox Live Arcade; from there, it proliferated across various other platforms. The enhanced version did so well that Yu began working on a sequel, which was released last year. So this isn't a new game, by any means, but I am finally getting around to writing about it.
 
