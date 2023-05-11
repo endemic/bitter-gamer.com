@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 # start the container
 docker run --detach --rm --name jekyll_container --volume $(pwd):/app bitter_gamer_jekyll
